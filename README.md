@@ -5,3 +5,4 @@
 - [ پکیج net/http در Go چیست و چگونه ساخت سرور HTTP را ساده می‌کند؟](golang-interview/README.md#question3)
 -  [ عبارت select در Go چگونه موارد پیش‌فرض (default cases) را مدیریت می‌کند؟](golang-interview/README.md#question4)
 - [ defer، panic و recover در Go چگونه با یکدیگر استفاده می‌شوند؟](golang-interview/README.md#question5)
+- [ پکیج math/big در Go چیست و چه زمانی از آن استفاده می‌کنیم؟](golang-interview/README.md#question6)
